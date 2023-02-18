@@ -1,5 +1,0 @@
-revisiting-sepconv-master
-PSNR=23.193321169
-
-25-128：model_epoch026.pth
-PSNR=23.725132808
