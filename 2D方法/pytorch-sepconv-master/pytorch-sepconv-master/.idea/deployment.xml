@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="caizheng" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="caizheng">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/data_cz/pytorch-sepconv" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="renxuqian">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/guest" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
